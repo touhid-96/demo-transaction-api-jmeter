@@ -19,8 +19,8 @@
 - copy the load_test_b9.jmx file into bin folder of installed location of Jmeter
 - open the load_test_b9.jmx file with jemeter & run the project
 - to Generate report on the command prompt, delete the already copied .csv file and Report folder from the project
-- hit the following command:
-- jmeter -n -t .\load_test_b9.jmx -l .\load_test_b9.csv -e -o Report
+- hit the following command:  
+  `jmeter -n -t .\load_test_b9.jmx -l .\load_test_b9.csv -e -o Report`
 
 ## Prerequisite
 - Jmeter and Java must be installed
