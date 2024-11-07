@@ -1,5 +1,5 @@
 
-# demo-transaction-api-jmx
+# Performance Testing of Fintech API using Jmeter
 
 ## Technology and Tool Used
 - Apache JMeter
